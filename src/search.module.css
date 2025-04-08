@@ -1,0 +1,18 @@
+.container{
+    margin :20px auto;
+    width: 300px;
+    position: relative;
+   
+
+}
+.input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid gray;
+    color:gray;
+    font-size: 16px;
+    padding: 10px;
+    outline-style: none;
+    background-color:#F6F0F0;
+    
+}

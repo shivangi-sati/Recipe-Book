@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    margin-top:50px;
+    gap:60px;
+    box-shadow: 0 4px 6px rgb(0,0,0,0.1);
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    
+
+}
+.imgContainer{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.image{
+    max-width: 100%;
+    height: auto;
+    border-radius:5px ;
+}
+
+.name{
+    margin-bottom:6px;
+    font-size: large;
+    font-weight: 600;
+
+}
+.amount{
+    font-size: large;
+    font-weight: 600;
+
+}
+
